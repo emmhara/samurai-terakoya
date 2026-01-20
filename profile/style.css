@@ -1,0 +1,50 @@
+img {
+  max-width: 100%;
+}
+header img{
+  width: 250px;
+}
+header{
+  background-color: antiquewhite;
+}
+
+ul{
+  display: flex;
+  justify-content: right;
+  align-items:center ;
+  font-size: 30px;
+}
+
+h2{
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+  margin: 40px 0;
+}
+
+.round{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+h3{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.bicycle{
+  display: flex;
+}
+
+.bicycle-list{
+  width: 33%;
+}
+
+
+
+footer{
+  text-align: center;
+  margin: 40px 0;
+}
